@@ -10,3 +10,4 @@ Each bundle's licence and use restrictions are in `cards/`, read at the pinned c
 |---|---|---|
 | `live-voice-v1` | `live-voice-shared/coreml` — ContentVec + RMVPE for live voice conversion | [cards/live-voice-shared.md](cards/live-voice-shared.md) |
 | `live-voice-v1` | `live-voice-m1/coreml` — voice M1 (RVC v2 48 kHz generator + retrieval index) | [cards/live-voice-m1.md](cards/live-voice-m1.md) |
+| `supertonic-3-v1` | `supertonic-3` — Supertonic-3 TTS, Core ML, three VectorEstimators sharing one weight file (OpenRAIL-M use restrictions) | [cards/supertonic-3.md](cards/supertonic-3.md) |
